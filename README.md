@@ -9,3 +9,6 @@
 Презентация в формате .pptx
 
 Дата база для платформы 1С:Предприятие 8.3 в формате .dt
+
+## Ссылка
+https://drive.google.com/drive/folders/1ZmDlJjE3xNvd7DSyHQ82Nz7SzxXhZVgg?usp=sharing

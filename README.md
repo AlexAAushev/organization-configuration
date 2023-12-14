@@ -1,1 +1,1 @@
-# organization-configuration
+# Конфигурация торговой организации
